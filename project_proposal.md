@@ -27,4 +27,4 @@ Acquired from Kaggle, but available on Met Open Access:
 
 
 **MVP Goal** 
-- Build a baseline model 
+- Build a baseline model (doing the EDA in order to decide which model might make the most sense as a baseline model here) 
