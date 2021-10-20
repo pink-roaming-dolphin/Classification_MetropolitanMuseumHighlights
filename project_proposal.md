@@ -6,6 +6,8 @@
 
 - The goal is to help the Met see what kinds of categories they highlight the most (is it predictable) and possibly diversify their selection more broadly by tuning their parameters more in line with the museum’s mission. 
 
+- Alternative use case: Say a donor wants to donate the object only if his donation has a high chance of being highlighted on the website (odds of visibility). What are the chances that the object he is thinking of donating will get highlighted on the front page (alternatively will it or not)? So this way he can choose from his own collection what to donate accordingly. 
+
 **Data** 
 - Each observation is an object from the Met’s collection. 
 - The target will be the column “Is Highlight” 
