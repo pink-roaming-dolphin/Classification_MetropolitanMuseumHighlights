@@ -27,7 +27,7 @@
        'Repository'] 
 - From domain knowledge, initial Features to zoom in on would be: 
 Department, Period, Dynasty, Artist Role, Nationality, Object Date, Medium, Credit Line, Classification, Country, Geography
-Acquired from Kaggle, but available on Met Open Access: 
+- Acquired from Kaggle, but available on Met Open Access: 
 
 
 **MVP Goal** 
