@@ -10,6 +10,7 @@
 
 
 **Data** 
+- Dataset has 448,203 observations. 
 - Each observation is an object from the Met’s collection. 
 - The target will be the column “Is Highlight” 
 - Features include: 
