@@ -4,9 +4,10 @@
 
  - Can I predict whether an object will be a highlight at the Met’s museum website using different classification problems?
 
-- The goal is to help the Met see what kinds of categories they highlight the most (is it predictable) and possibly diversify their selection more broadly by tuning their parameters more in line with the museum’s mission. 
+- The goal is to help the Met see what kinds of categories they highlight the most (is it predictable) and possibly diversify their selection more broadly by tuning their parameters more in line with the museum’s mission. With our model they can figure out which categories in each feature are more likely to be ‘featured’ and say if they want to look ‘more modern’ as opposed to ‘antiquities’ they can decide to have more balanced representation there. 
 
-- Alternative use case: Say a donor wants to donate the object only if his donation has a high chance of being highlighted on the website (odds of visibility). What are the chances that the object he is thinking of donating will get highlighted on the front page (alternatively will it or not)? So this way he can choose from his own collection what to donate accordingly. 
+- Alternative use case: Say a donor wants to donate the object only if his donation has a high chance of being highlighted on the website (odds of visibility). What are the chances that the object he is thinking of donating will get highlighted on the front page (alternatively will it or not)? So this way he can choose from his own collection what to donate accordingly. This model could be employed by an advising firm that is consulting their client on getting the most visibility out of their donation. 
+
 
 **Data** 
 - Each observation is an object from the Met’s collection. 
