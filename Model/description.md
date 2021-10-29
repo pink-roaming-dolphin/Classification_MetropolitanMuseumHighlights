@@ -33,8 +33,8 @@ All the EDA was also applied to the Ancient Group and an initial baseline was ru
 
 **Algorithms**
 - KNN, Random Forest, CART and Logistic Regression models were compared. 
-- Precision score was the main metric (F1 score was considered); also confusion matrix & threshold curves were utilized during model tuning. 
-- Class imbalances were handled both during model training through adjusting the class weights and after training but adjusting the threshold. 
+- Precision score was the main metric (F1 score was considered towards the end to get some extra TP); also confusion matrix & threshold curves were utilized during model tuning. 
+- Class imbalances were handled both during model training through adjusting the class weights and after training but adjusting the threshold. Weight classes were tested to find the optimum class weight number. 
 - Train_test_split while tuning, cross_val during model selection 
 
 **Tools**
