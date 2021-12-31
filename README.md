@@ -43,4 +43,4 @@ All the EDA was also applied to the Ancient Group and an initial baseline was ru
 - Scikit-Learn for Modeling
 
 **Communication**
-The project was presented with a slideshow in which the use case & model deployment were narrated. 
+The project was presented with a slideshow in which the use case & model deployment were narrated. The presentation PDF can be found [here](https://github.com/zey-o/DeepLearning_Wikiart_Emotions/blob/main/Presentation_DL_Wikiart_Emotions.pdf) 
