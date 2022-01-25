@@ -1,4 +1,4 @@
-Blog post about project here: [Medium - Met Classification Project](https://medium.com/@zeynep.oz/classification-project-4d7abb318c45)
+Blog post about project here: [Medium - Met Classification Project](https://medium.com/@zey-o/classification-project-7959901cc8ef)
 
 
 ## Predicting the Metropolitan Museum’s Highlighting Strategy
