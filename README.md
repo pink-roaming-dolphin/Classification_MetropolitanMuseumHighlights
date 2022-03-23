@@ -12,7 +12,7 @@ But in the long run, we like the interpretability of this model as another possi
 the congruence of their curatorial choices with the overall mission of the museum. 
 
 **Design**
-The project proposes to predict the odds of being highlighted of an object that is donated to the Met. 
+The project proposes to predict the odds of being highlighted for an object that is donated to the Met. 
 It focuses specifically on precision scores because a patron donating on the belief that on object will be highlighted 
 would be very disappointed to find out that it is not. On the other hand, if they donate thinking that it is unlikely 
 that it will get donated and yet it does, it would be a welcome surprise. So we concentrated on the reduction of FP’s to as minimum as possible. 
